@@ -33,7 +33,7 @@
 /* Header style here  */
 .banner {
     height: 100vh;
-    background-image: url("../images/banner/banner1.png");
+    background-image: url("./images/banner/banner1.png");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 180px 200px;
@@ -139,7 +139,7 @@ img.course-icon {
     height: 300px;
     /* background-image: url("/asset/images/watch.png"); */
     background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),
-        url("/asset/images/watch.png");
+        url("./images/watch.png");
     background-repeat: no-repeat;
     border-radius: 8px;
 }
