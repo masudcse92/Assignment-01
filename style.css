@@ -33,7 +33,7 @@
 /* Header style here  */
 .banner {
     height: 100vh;
-    background-image: url("./images/banner/banner1.png");
+    background-image: url("./images/banner1.png");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 180px 200px;
