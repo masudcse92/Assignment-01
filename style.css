@@ -162,6 +162,7 @@ footer {
     padding: 60px 125px;
     display: flex;
     justify-content: space-between;
+    margin-top: -60px;
 }
 
 .footer-about .title {
@@ -188,21 +189,26 @@ input[type="text"] {
     padding: 10px;
 }
 
-.footer-bottom {
-    background-color: #444343;
-}
-
 .footer-icon img {
     width: 30px;
     margin-right: 5px;
 }
 
 
+.our-team {
+    margin: 60px -125px;
+    padding: 50px 125px;
+    background: #f5f8fa !important;
+}
 
 .team-container {
     display: flex;
     justify-content: space-between;
-    margin: 60px 0;
+
+}
+
+.our-team .title {
+    text-align: center;
 }
 
 .team-details {
@@ -211,6 +217,7 @@ input[type="text"] {
     text-align: center;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
 }
+
 
 .team-image img {
     width: 100px;
