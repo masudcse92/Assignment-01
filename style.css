@@ -164,6 +164,8 @@ img.course-icon {
     background: #f5f8fa !important;
 }
 
+
+
 .team-container {
     display: flex;
     justify-content: space-between;
@@ -173,6 +175,7 @@ img.course-icon {
 .our-team .title {
     text-align: center;
 }
+
 
 .team-details {
     margin: 15px;
